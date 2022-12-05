@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa
+}
+.background {
+    background-image: url(./img/background.png);
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 200px;
+
+}
+.dino {
+    background-image: url(./img/dino.png);
+    position: absolute;
+    bottom: 0;
+    width: 60px;
+    height: 60px;
+}
