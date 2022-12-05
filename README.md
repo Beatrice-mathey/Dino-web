@@ -1,4 +1,4 @@
-<h1 align=center> Projeto do jogo Dino-web </h1>
+<h1 align=center> Jogo Dino-web </h1>
 <h2> Primeira parte do projeto </h2> 
 <link> https://www.youtube.com/watch?v=LvCTRu-hDq4&lc=UgxD-_98DPz1rWTfHfh4AaABAg.9ioQzWn74vI9j49fCwQsKR </link>
 <p> Projeto do canal da https://github.com/monteirocamis </p>
